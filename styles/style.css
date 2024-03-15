@@ -147,9 +147,9 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: 100% !important; 
+        width: auto !important; 
         text-align: center; 
-        gap: 20px; 
+        gap: 20px ;
     }
 
     .apresentacao__conteudo__titulo {
