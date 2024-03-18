@@ -26,6 +26,7 @@ body {
 
 .cabecalho{
     padding: 2% 0% 0% 15%;
+    
 }
 
 .cabecalho__menu{
@@ -36,10 +37,11 @@ body {
 
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
+    margin-bottom: 15px;
 
 }
 
@@ -61,7 +63,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo{
-    font: size 2.25rem;
+    font: size 2rem;
     font-family: var(--fonte-primaria);
 
 }
@@ -73,7 +75,7 @@ body {
 
 
 .apresentacao__conteudo__texto{
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: var(--fonte-secundaria);
 
 }
